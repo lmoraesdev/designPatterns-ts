@@ -1,9 +1,9 @@
 {
   "author": {
-    "name": "Emerson Laranja",
-    "github": "EmersonLaranja"
+    "name": "leandro",
+    "github": "lmoraes"
   },
-  "description": "Projeto Node.js com TypeScript aplicando padrões de projeto",
+  "description": "Design Patterns in TypeScript",
   "engines": {
     "node": ">= 20.0.0"
   },
